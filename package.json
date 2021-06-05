@@ -1,0 +1,26 @@
+{
+  "name": "goit-nodejs-hw-01-CLIapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeoniss/goit-nodejs-hw-01-CLIapplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeoniss/goit-nodejs-hw-01-CLIapplication/issues"
+  },
+  "homepage": "https://github.com/zeoniss/goit-nodejs-hw-01-CLIapplication#readme",
+  "dependencies": {
+    "eslint": "^7.28.0",
+    "nodemon": "^2.0.7",
+    "uuid-v4": "^0.1.0",
+    "yargs": "^17.0.1"
+  }
+}
