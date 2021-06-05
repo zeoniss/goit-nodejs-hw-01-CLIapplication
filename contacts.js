@@ -40,6 +40,6 @@ async function addContact(name, email, phone) {
   }
 }
 module.exports = { addContact };
-// function removeContact(contactId) {
-//   // ...твой код
-// }
+// // function removeContact(contactId) {
+// //   // ...твой код
+// // }
